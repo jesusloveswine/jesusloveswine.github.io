@@ -1,3 +1,12 @@
-body {
-    background-color: #c02929;
+* {
+    background-color: #f5f5f5;
+}
+
+.workInProgress {
+    color: #1c1c1c;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Sofia Sans", serif;
+    font-weight: 800;
+    margin-top: 15%;
 }
